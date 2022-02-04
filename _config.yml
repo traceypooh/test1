@@ -1,3 +1,11 @@
 markdown_ext: "nope"
 plugins:
   - jekyll-sitemap
+  - jekyll-feed
+
+defaults:
+  -
+    scope:
+      path:            "**/*.md"
+    values:
+      sitemap:         true
