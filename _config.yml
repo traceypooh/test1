@@ -21,5 +21,3 @@ plugins_dir: [.]
 markdown_ext: "nope"
 plugins: []
 markdown: false
-show_dir_listing: true
-verbose: true
