@@ -6,18 +6,18 @@
 
 
 # https://github.com/benbalter/jekyll-optional-front-matter
-optional_front_matter:
-  remove_originals: false
+#optional_front_matter:
+#  remove_originals: false
 #  enabled: false
 
 # https://github.com/benbalter/jekyll-readme-index
-readme_index:
-  remove_originals: false
+#readme_index:
+#  remove_originals: false
 
 
 # f-ery
 keep_files: ["README.md"]
 plugins_dir: [.]
 markdown_ext: "nope"
-plugins: []
-markdown: false
+#plugins: []
+#markdown: false
