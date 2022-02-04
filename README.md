@@ -1,5 +1,5 @@
 ---
-title: ignore but keep this these top 3 lines
+title: ignore this but keep these top 3 lines
 ---
 ---
 title: Tracey's Tamalpais Thirty - 3T
