@@ -1,6 +1,9 @@
 ---
-title: ignore this but keep these top 3 lines
+title: blogtini.com - these first 3 lines allow compatibility with GitHub Pages' Jekyll setup
 ---
+
+
+
 ---
 title: Tracey's Tamalpais Thirty - 3T
 date: 2022-01-16
@@ -65,6 +68,8 @@ Here's what I would recommend to *avoid* the brutal downhill upper part of Eldri
 <iframe class="alltrails" src="https://www.alltrails.com/widget/map/mt-tam-from-mill-valley-lakes-larkspur-loop-easier-descent-265eceb?u=i" width="100%" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="AllTrails: Trail Guides and Maps for Hiking, Camping, and Running"></iframe>
 
 Gotta go get my own gravel bike!
+
+
 
 
 ---
