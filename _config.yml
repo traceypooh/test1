@@ -1,0 +1,15 @@
+# https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll#plugins
+
+# could be useful vv, but not in accept list ^^ :(
+# https://github.com/jekyll/jekyll-sitemap
+# https://github.com/jekyll/jekyll-feed
+
+
+# https://github.com/benbalter/jekyll-optional-front-matter
+optional_front_matter:
+  remove_originals: false
+#  enabled: false
+
+# https://github.com/benbalter/jekyll-readme-index
+readme_index:
+  remove_originals: false
