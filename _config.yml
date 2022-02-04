@@ -13,3 +13,13 @@ optional_front_matter:
 # https://github.com/benbalter/jekyll-readme-index
 readme_index:
   remove_originals: false
+
+
+# f-ery
+keep_files: ["README.md"]
+plugins_dir: [.]
+markdown_ext: "nope"
+plugins: []
+markdown: false
+show_dir_listing: true
+verbose: true
